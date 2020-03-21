@@ -1,0 +1,20 @@
+{
+  "name": "@joeriess/tsconfig",
+  "version": "1.0.0",
+  "description": "TypeScript configuration file for all my projects",
+  "main": "tsconfig.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeriess/tsconfig.git"
+  },
+  "keywords": [
+    "ts",
+    "typescript"
+  ],
+  "author": "Joe Riess",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joeriess/tsconfig/issues"
+  },
+  "homepage": "https://github.com/joeriess/tsconfig#readme"
+}
